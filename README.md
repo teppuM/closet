@@ -1,2 +1,2 @@
 # closet
-Release downloads for Jame's Simple Calendar, a Foundry VTT v14 module.
+Jame's Simple Calendar for Foundry VTT: install with the manifest address https://github.com/teppuM/closet/releases/latest/download/module.json
